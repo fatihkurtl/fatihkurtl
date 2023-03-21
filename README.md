@@ -1,6 +1,6 @@
-Hi there 👋
+## Hello, I'm Fatih Kurt!
 
-I'm Fatih, a Junior Full Stack Web Developer with a degree in Computer Programming and a passion for creating responsive and user-friendly web applications. I have experience working with various technologies and tools, including:
+I'm a junior full-stack web developer. I also have experience with Vue.js3, Svelte, JavaScript,  Node.js, Python, Flask, MySQL, Docker, and MongoDB.
 
 ### Technologies and Tools
 
@@ -16,34 +16,7 @@ I'm Fatih, a Junior Full Stack Web Developer with a degree in Computer Programmi
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </p>
 
-📫 Contact Me
+### Contact
 
-You can reach me via email at fatihkurtl.dev@gmail.com.
-
-Tabii, elbette yapabilirim! İşe koyulalım:
-Hi there 👋
-
-I'm Fatih, a Junior Full Stack Web Developer with a degree in Computer Programming and a passion for creating responsive and user-friendly web applications. I have experience working with various technologies and tools, including:
-💻 Technologies
-
-    Vue.js <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-    Svelte <img src="https://img.icons8.com/color/48/000000/svelte.png"/>
-    React <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-    Node.js <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    Express <img src="https://img.icons8.com/color/48/000000/express.png"/>
-    Python <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    Flask <img src="https://img.icons8.com/fluent/48/000000/flask.png"/>
-    MySQL <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    Docker <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-    JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
-### 📫 Contact Me
-
-- Email: [fatihkurtl@example.com](mailto:fatihkurtl@example.com)
-
-### 🔍 More About Me
-
-As a passionate and dedicated web developer, I am committed to continuously improving my skills and staying up-to-date with the latest technologies and trends. In my free time, I enjoy reading, watching movies, and playing video games.
-
-Thanks for stopping by!
+- Email: [fatihkurt.dev@gmail.com](mailto:fatihkurt.dev@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
