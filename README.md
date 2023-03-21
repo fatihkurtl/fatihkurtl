@@ -38,11 +38,11 @@ I'm Fatih, a Junior Full Stack Web Developer with a degree in Computer Programmi
     Docker <img src="https://img.icons8.com/color/48/000000/docker.png"/>
     JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 
-📫 Contact Me
+### 📫 Contact Me
 
-You can reach me via email at fatihkurtl.dev@gmail.com.
+- Email: [fatihkurtl@example.com](mailto:fatihkurtl@example.com)
 
-🔍 More About Me
+### 🔍 More About Me
 
 As a passionate and dedicated web developer, I am committed to continuously improving my skills and staying up-to-date with the latest technologies and trends. In my free time, I enjoy reading, watching movies, and playing video games.
 
