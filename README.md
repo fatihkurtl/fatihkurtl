@@ -1,11 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Fatih Kurtulmuş</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/fatihkurtl">
-    <img src="https://github.com/fatihkurtl.png?size=100" alt="GitHub Profile Picture">
-  </a>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihkurtl&label=Profile%20views&color=0e75b6&style=flat" alt="fatihkurtl" /> </p>
 
