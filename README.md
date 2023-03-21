@@ -1,6 +1,6 @@
-## Hello, I'm Fatih Kurt!
+Hi there 👋
 
-I'm a junior full-stack web developer . I also have experience with Vue.js3, Svelte, JavaScript,  Node.js, Python, Flask, MySQL, Docker, and MongoDB.
+I'm Fatih, a Junior Full Stack Web Developer with a degree in Computer Programming and a passion for creating responsive and user-friendly web applications. I have experience working with various technologies and tools, including:
 
 ### Technologies and Tools
 
@@ -16,7 +16,11 @@ I'm a junior full-stack web developer . I also have experience with Vue.js3, Sve
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
 </p>
 
-### Contact
+📫 Contact Me
 
-- Email: [fatihkurt.dev@gmail.com](mailto:fatihkurt.dev@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
+You can reach me via email at fatihkurtl.dev@gmail.com.
+🔍 More About Me
+
+As a passionate and dedicated web developer, I am committed to continuously improving my skills and staying up-to-date with the latest technologies and trends. In my free time, I enjoy reading, watching movies, and playing video games.
+
+Thanks for stopping by!
