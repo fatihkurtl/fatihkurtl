@@ -17,6 +17,6 @@ I'm a junior full-stack web developer . I also have experience with Vue.js3, Sve
 
 ### Contact
 
-- Email: [fatihkurtl@example.com](mailto:fatihkurtl@example.com)
+- Email: [fatihkurtl@example.com](mailto:fatihkurt.dev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
 
