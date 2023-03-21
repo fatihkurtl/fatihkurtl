@@ -1,19 +1,10 @@
-<h1 align="center">Merhaba 👋, Ben Fatih Kurtulmuş</h1>
-<h3 align="center">Junior Full Stack Web Developer</h3>
+<h3 align="center">Jr. Full Stack Web Developer</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihkurtl&label=Profile%20views&color=0e75b6&style=flat" alt="fatihkurtl" /> </p>
 
-- 🌱 Şu anda öğreniyorum: **Vue.js, Flask, Docker, MongoDB**
 
-- 👨‍💻 Tüm projelerime buradan erişebilirsiniz: [https://github.com/fatihkurtl](https://github.com/fatihkurtl)
-
-- 📝 Blog: [https://fatihkurtl.medium.com/](https://fatihkurtl.medium.com/)
-
-- 💬 Benimle iletişime geçmek için: **fatih.kurtl2410@gmail.com**
-
-- ⚡ İlgi alanlarım: **Python, JavaScript, Vue.js, Node.js, MySQL, Flask, Docker, MongoDB**
 
 <p align="left">
 <h3 align="left">Diller ve Araçlar:</h3>
