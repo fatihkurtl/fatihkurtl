@@ -1,4 +1,4 @@
-## Hello, I'm Fatih Kurtul!
+## Hello, I'm Fatih Kurt!
 
 I'm a junior full-stack web developer . I also have experience with Vue.js3, Svelte, JavaScript,  Node.js, Python, Flask, MySQL, Docker, and MongoDB.
 
