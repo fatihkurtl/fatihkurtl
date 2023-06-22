@@ -6,6 +6,7 @@ I'm a junior full-stack web developer. I also have experience with Vue.js3, Svel
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/sveltejs/sveltejs-icon.png" alt="sveltejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
