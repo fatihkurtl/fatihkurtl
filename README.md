@@ -14,6 +14,7 @@ I'm a junior full-stack web developer. I also have experience with Vue.js3, Svel
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
 <!--   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>  -->
 </p>
 
