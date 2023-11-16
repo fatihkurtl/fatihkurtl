@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Fatih!
+<!-- ## Hi there 👋, I'm Fatih! -->
 
-I'm a junior full-stack web developer. I also have experience with Vue.js3, Svelte, JavaScript,  Node.js, Python, Flask, MySQL, Docker, and MongoDB.
+I'm a junior full-stack web developer. I also have experience with Vue.js3, Svelte, JavaScript,  Node.js, Python, Flask, MySQL and MongoDB.
 
 ### Technologies and Tools
 
