@@ -28,6 +28,6 @@ I'm a junior full-stack web developer. I also have experience with Vue.js3, Svel
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&" alt="fatihkurtl" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
 
 
