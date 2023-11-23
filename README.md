@@ -23,7 +23,7 @@ I'm a junior full-stack web developer. I also have experience with Vue.js3, Svel
 - Email: [fatihkurt.dev@gmail.com](mailto:fatihkurt.dev@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihkurtl&show_icons=true&locale=en&layout=compact" alt="fatihkurtl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihkurtl&show_icons=true&locale=en&layout=compact" alt="fatihkurtl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
 
