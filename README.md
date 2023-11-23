@@ -27,6 +27,6 @@ I'm a full-stack web developer. I also have experience with Vue.js3, Svelte, Jav
 - LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
 
 <div align="center">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&" alt="fatihkurtl" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&" alt="fatihkurtl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
 </div>
