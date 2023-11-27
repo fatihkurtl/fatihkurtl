@@ -28,8 +28,8 @@ I'm a full-stack web developer. I also have experience with Vue.js3, Svelte, Jav
 - LinkedIn: [https://www.linkedin.com/in/fatihkurtl/](https://www.linkedin.com/in/fatihkurtl/)
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&" alt="fatihkurtl" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&" alt="fatihkurtl" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&locale=en" alt="fatihkurtl" /></p> -->
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=fatihkurtl" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=fatihkurtl" height="150" alt="languages graph"  />
 </div>
