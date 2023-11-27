@@ -20,7 +20,7 @@ I'm a full-stack web developer. I also have experience with Vue.js3, Svelte, Jav
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihkurtl&show_icons=true&locale=en&layout=compact" alt="fatihkurtl" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihkurtl&show_icons=true&locale=en&layout=compact" alt="fatihkurtl" /></p> -->
 
 ### Contact
 
