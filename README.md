@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋, I'm Fatih! -->
 
-I'm a full-stack web developer. I also have experience with Vue.js3, Svelte, JavaScript, Node.js, Python, Flask, FastAPI, MySQL, PostgreSQL and MongoDB.
+I'm a full-stack web developer. I also have experience with Vue.js3, Nuxt.js, Svelte, JavaScript, Node.js, Python, Flask, FastAPI, MySQL, PostgreSQL and MongoDB.
 
 ### Technologies and Tools
 
