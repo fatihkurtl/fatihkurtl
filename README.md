@@ -1,6 +1,6 @@
-# Hi there! I'm Fatih Kurt 👋
-
-## 🚀 Full-Stack Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fatih%20Kurt&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer&descSize=30" width="100%">
+</div>
 
 I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I specialize in creating robust, scalable, and innovative solutions that bridge design and functionality.
 
