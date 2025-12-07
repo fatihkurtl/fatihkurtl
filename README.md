@@ -37,11 +37,28 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&theme=dracula&hide_border=false" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkurtl&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="150"/>
+  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatihkurtl&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=fatihkurtl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ### 🤝 Let's Connect!
@@ -50,6 +67,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihkurt.dev@gmail.com)
 
 ### 📌 Profile Views
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fatihkurtl&color=brightgreen)
 
 ---
