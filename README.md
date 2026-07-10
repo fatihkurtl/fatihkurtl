@@ -1,75 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fatih%20Kurt&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer&descSize=30" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Fatih+Kurt+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Applications" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihkurtl/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fatihkurt.dev@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/fatihkurtl?style=flat-square&logo=github&label=Follow&color=181717)](https://github.com/fatihkurtl)
+
 </div>
 
-I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I specialize in creating robust, scalable, and innovative solutions that bridge design and functionality.
+```typescript
+const fatih = {
+  role: "Full-Stack Developer",
+  location: "Türkiye 🇹🇷",
+  code: ["TypeScript", "JavaScript", "Python", "Dart"],
+  currentFocus: "ServerGlance — SSH server monitoring app for iOS 📱",
+  askMeAbout: ["web dev", "mobile apps", "SaaS", "system design"],
+  funFact: "I debug with console.log and I'm not ashamed",
+};
+```
 
-### 💡 About Me
-- 🔭 Experienced in full-stack development
-- 🌱 Continuously learning and exploring new technologies
-- 💻 Passionate about writing clean, efficient code
-- 🌍 Open to exciting remote opportunities and collaborations
-
-### 🛠️ Technologies & Tools
-
-#### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📊 GitHub Statistics
+## ⚡ Tech Stack
 
 <div align="center">
-  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fatihkurtl&theme=tokyonight&hide_border=true)
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind&perline=5" />
+
+**Backend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,flutter,dart&perline=6" />
+
+**Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,docker,nginx,git,linux&perline=8" />
 
 </div>
 
-### 📈 Contribution Graph
+## 🚀 Featured Product
+
+<table>
+<tr>
+<td>
+
+### 📱 ServerGlance — SSH Monitor for iOS
+
+Real-time Linux server monitoring app built with Flutter and the SSHv2 protocol. Provides instant visualization of server metrics (CPU, RAM, Disk, Network) with high-performance **iOS Home Widget** support. Monetization and license management powered by RevenueCat.
+
+`Flutter` `Dart` `GetX` `SSHv2` `RevenueCat` `HomeWidget`
+
+**[🌐 Landing Page](https://serverglance.fktyazilim.com/)** · **[ App Store](https://apps.apple.com/us/app/serverglance-ssh-monitor/id6758614736)**
+
+</td>
+</tr>
+</table>
+
+## 💼 Client Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗓️ Tech in Cube — Reservation SaaS
+
+QR-based reservation platform & SaaS built for a co-working space. PWA-enabled with scheduled background tasks.
+
+`Next.js` `TypeScript` `TailwindCSS` `shadcn/ui` `DRF` `PostgreSQL` `Redis` `Celery` `Docker` `Nginx`
+
+**[🔗 Live](https://rezervasyon.techincube.com.tr/)**
+
+</td>
+<td width="50%">
+
+### 🏛️ Mühür Mermer — E-commerce
+
+Multi-language & multi-currency e-commerce website with PWA support, SEO optimization, and Vercel Analytics.
+
+`Next.js` `TypeScript` `TailwindCSS` `shadcn/ui` `DRF` `Docker` `Nginx`
+
+**[🔗 Live](https://muhurmermer.com.tr/)**
+
+</td>
+</tr>
+</table>
+
+## 📊 Stats
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fatihkurtl&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+<img src="https://github-readme-stats.vercel.app/api?username=fatihkurtl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihkurtl&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" />
+
+<img src="https://streak-stats.demolab.com/?user=fatihkurtl&theme=tokyonight&hide_border=true&background=00000000" height="160" />
 
 </div>
 
-### 🏆 GitHub Achievements
+## 🐍 Contributions
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=fatihkurtl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatihkurtl/fatihkurtl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatihkurtl/fatihkurtl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fatihkurtl/fatihkurtl/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-### 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihkurtl/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatihkurt.dev@gmail.com)
-
-### 📌 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=fatihkurtl&color=brightgreen)
 
 ---
 
-⭐️ From [Fatih Kurt](https://github.com/fatihkurtl)
+<div align="center">
+<sub>💬 Open to remote opportunities & collaborations — let's talk!</sub>
+</div>
