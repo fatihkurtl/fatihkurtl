@@ -45,13 +45,13 @@ const fatih = {
 <tr>
 <td>
 
-### 📱 ServerGlance — SSH Monitor for iOS
+### 📱 ServerGlance — SSH Monitor for iOS, MacOS & Android
 
-Real-time Linux server monitoring app built with Flutter and the SSHv2 protocol. Provides instant visualization of server metrics (CPU, RAM, Disk, Network) with high-performance **iOS Home Widget** support. Monetization and license management powered by RevenueCat.
+Real-time Linux server monitoring app built with Flutter and the SSHv2 protocol. Provides instant visualization of server metrics (CPU, RAM, Disk, Network) with high-performance **iOS & Android Home Widget** support. Monetization and license management powered by RevenueCat.
 
 `Flutter` `Dart` `GetX` `SSHv2` `RevenueCat` `HomeWidget`
 
-**[🌐 Landing Page](https://serverglance.fktyazilim.com/)** · **[ App Store](https://apps.apple.com/us/app/serverglance-ssh-monitor/id6758614736)**
+**[🌐 Landing Page](https://serverglance.fktyazilim.com/)** · **[ App Store](https://apps.apple.com/us/app/serverglance-ssh-monitor/id6758614736)** · **[ Play Store](https://play.google.com/store/apps/details?id=com.fatihkurt.serverglance)**
 
 </td>
 </tr>
