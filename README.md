@@ -4,9 +4,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihkurtl/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fatihkurt.dev@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/fatihkurtl?style=flat-square&logo=github&label=Follow&color=181717)](https://github.com/fatihkurtl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fatihkurtl/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:fatihkurt.dev@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/fatihkurtl?style=flat-square\&logo=github\&label=Follow\&color=181717)](https://github.com/fatihkurtl)
 
 </div>
 
@@ -43,7 +43,7 @@ const fatih = {
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### 📱 ServerGlance — SSH Monitor for iOS, MacOS & Android
 
@@ -52,6 +52,17 @@ Real-time Linux server monitoring app built with Flutter and the SSHv2 protocol.
 `Flutter` `Dart` `GetX` `SSHv2` `RevenueCat` `HomeWidget`
 
 **[🌐 Landing Page](https://serverglance.fktyazilim.com/)** · **[ App Store](https://apps.apple.com/us/app/serverglance-ssh-monitor/id6758614736)** · **[ Play Store](https://play.google.com/store/apps/details?id=com.fatihkurt.serverglance)**
+
+</td>
+<td width="50%">
+
+### 📦 Loqorina — 3D Warehouse Management
+
+A web platform for small and mid-sized warehouses to manage physical space and inventory through an interactive 3D warehouse map.
+
+`Next.js` `React` `Vite` `TypeScript` `Three.js` `TailwindCSS` `shadcn/ui` `FastAPI` `Docker` `Nginx`
+
+**[🌐 Website](https://loqorina.com/)**
 
 </td>
 </tr>
