@@ -14,7 +14,7 @@
 const fatih = {
   role: "Full-Stack Developer",
   location: "Türkiye 🇹🇷",
-  code: ["TypeScript", "JavaScript", "Python", "Dart"],
+  code: ["TypeScript", "JavaScript", "Python", "C#", "Dart"],
   currentFocus: "ServerGlance — SSH server monitoring app for iOS 📱",
   askMeAbout: ["web dev", "mobile apps", "SaaS", "system design"],
   funFact: "I debug with console.log and I'm not ashamed",
@@ -31,7 +31,7 @@ const fatih = {
 
 **Backend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,flutter,dart&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,dotnet,cs,flutter,dart&perline=8" />
 
 **Databases & DevOps**
 
@@ -63,6 +63,19 @@ A web platform for small and mid-sized warehouses to manage physical space and i
 `Next.js` `React` `Vite` `TypeScript` `Three.js` `TailwindCSS` `shadcn/ui` `FastAPI` `Docker` `Nginx`
 
 **[🌐 Website](https://loqorina.com/)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🚚 Convoy Tycoon — Online Trucking Tycoon Game
+
+A free-to-play trucking tycoon game that runs in the browser and on Android with a shared account. Haul freight in real time across 300+ real cities spanning Europe, the Middle East and the Americas, grow your fleet, trade loads on a player-driven freight exchange, team up in guilds and climb the weekly leaderboards — trucks keep delivering even while you're offline.
+
+`Next.js` `Three.js` `.NET` `PostgreSQL` `Redis`
+
+**[🌐 Website](https://convoy.fktyazilim.com/)** · **[ Play Store](https://play.google.com/store/apps/details?id=com.fktyazilim.convoytycoon)** · ** App Store** _(coming soon)_
 
 </td>
 </tr>
